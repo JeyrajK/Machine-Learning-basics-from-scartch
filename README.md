@@ -1,1 +1,1 @@
-# Machine-Learning-basics-from-scartch
+# Machine-Learning-basics-from-scratch
