@@ -21,7 +21,7 @@ Clustering is the task of dividing the data points into a number of groups such 
 2.Compute the distance matrix between each input data points. <br/>
 3.Repeat : <br/>
 - Merge two closest clusters.
-- Update the distance matrix. 
+- Update the distance matrix. <br/>
 4.Repeat step 3 until one single cluster remains.
 
 Number of clusters is chosen by **Dendrogram**.
