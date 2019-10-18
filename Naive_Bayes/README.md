@@ -17,3 +17,6 @@ Where P(class|data) is the probability of class given the provided data.
 
 Gaussian conditional probability is given by:
 ![](https://miro.medium.com/max/1576/1*0If5Mey7FnW_RktMM5BkaQ.png)
+
+### Reference : </br>
+https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
