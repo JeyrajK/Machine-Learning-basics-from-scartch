@@ -16,7 +16,8 @@ Supervised Machine Learning algorithms build using labelled dataset. Labelled da
 [2.Logistic Regression](https://github.com/JeyrajK/Machine-Learning-basics-from-scratch/tree/master/Logistic%20Regression) </br>
 [3.Support Vector Machines](https://github.com/JeyrajK/Machine-Learning-basics-from-scratch/tree/master/SVM) </br>
 [4.Decision Tree](https://github.com/JeyrajK/Machine-Learning-basics-from-scratch/tree/master/Decision%20tree) </br>
-[5.K-Nearest Neighbour](https://github.com/JeyrajK/Machine-Learning-basics-from-scratch/tree/master/KNN)
+[5.K-Nearest Neighbour](https://github.com/JeyrajK/Machine-Learning-basics-from-scratch/tree/master/KNN) </br>
+[6.Naive Bayes](https://github.com/JeyrajK/Machine-Learning-basics-from-scratch/tree/master/Naive_Bayes)
 
 
 ## Unsupervised Machine Learning </br>
